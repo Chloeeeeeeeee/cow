@@ -5,7 +5,7 @@ let status = 0;
 let buffer = ["", "", ""];
 
 let style1 = `body {
-                background-image: url(images/sus.gif);
+                background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2Fimages%2Fd402d8aa749ae0863b689d3f06b1dbde%2Ftenor.gif&f=1&nofb=1);
               }`;
 
 let styleSheet = document.createElement("style");
